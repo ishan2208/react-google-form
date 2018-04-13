@@ -1,0 +1,60 @@
+::-webkit-input-placeholder {
+   font-style: italic;
+   font-size: 15px;
+}
+:-moz-placeholder {
+   font-style: italic;  
+   font-size: 15px;
+}
+::-moz-placeholder {
+   font-style: italic;
+   font-size: 15px;  
+}
+:-ms-input-placeholder {  
+   font-style: italic; 
+   font-size: 15px;
+}
+
+.button{
+	margin-right: 20px
+}
+
+.moveRight{
+	float: right;
+}
+
+.showInCenter{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+}
+
+.showBelowLogin{
+	position: fixed;
+	top: 60%;
+	left: 50%;	
+}
+
+.formPosition{
+	margin-top: 5%;
+	max-width: 450px;
+}
+
+.tableWidth{
+	
+}
+
+.columnWidth{
+	max-width:200px;
+	white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+     white-space: -pre-wrap;      /* Opera 4-6 */
+     white-space: -o-pre-wrap;    /* Opera 7 */
+     white-space: pre-wrap;       /* css-3 */
+     word-wrap: break-word;       /* Internet Explorer 5.5+ */
+     word-break: break-all;
+     white-space: normal;
+}
+
+h2{
+	text-align: center;
+}
